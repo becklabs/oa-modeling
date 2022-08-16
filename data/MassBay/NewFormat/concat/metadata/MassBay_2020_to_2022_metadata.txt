@@ -1,0 +1,6 @@
+VAL_QUAL FlAGS
+
+-1: pH displayed erratic readings on the upcast profile. Repaired prior to subsequent stations.
+-2: pH sensor was reading inconsistent and unreasonable values.
+-3: pH displayed erratic readings at the bottom depth in upcast profile.
+-4: pH displayed erratic readings on the upcast profile. All upcast data flagged.

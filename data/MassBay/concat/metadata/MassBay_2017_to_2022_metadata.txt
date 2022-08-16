@@ -1,0 +1,27 @@
+Column 1: EVENT_ID is COLUMN DESCRIPTION   BAD FLAG : -1.E+34
+Column 2: STAT_ID is COLUMN DESCRIPTION   BAD FLAG : -1.E+34
+Column 3: PROF_DATE_TIME_LOCAL is COLUMN DESCRIPTION   BAD FLAG : -1.E+34
+Column 4: LATITUDE is COLUMN DESCRIPTION   BAD FLAG : -1.E+34
+Column 5: LONGITUDE is COLUMN DESCRIPTION   BAD FLAG : -1.E+34
+Column 6: DEPTH (m) is COLUMN DESCRIPTION   BAD FLAG : -1.E+34
+Column 7: SAMPLE_DEPTH_CODE is COLUMN DESCRIPTION   BAD FLAG : -1.E+34
+Column 8: CONDTVY (mS/cm) is COLUMN DESCRIPTION   BAD FLAG : -1.E+34
+Column 9: DISS_OXYGEN (mg/L) is COLUMN DESCRIPTION   BAD FLAG : -1.E+34
+Column 10: FLU_RAW (ug/L) is COLUMN DESCRIPTION   BAD FLAG : -1.E+34
+Column 11: PCT_SAT (PCT) is COLUMN DESCRIPTION   BAD FLAG : -1.E+34
+Column 12: pH () is COLUMN DESCRIPTION   BAD FLAG : -1.E+34
+Column 13: SAL (PSU) is COLUMN DESCRIPTION   BAD FLAG : -1.E+34
+Column 14: SIGMA_T () is COLUMN DESCRIPTION   BAD FLAG : -1.E+34
+Column 15: TEMP (C) is COLUMN DESCRIPTION   BAD FLAG : -1.E+34
+Column 16: TRANS (m-1) is COLUMN DESCRIPTION   BAD FLAG : -1.E+34
+Column 17: Data Source is COLUMN DESCRIPTION   BAD FLAG : -1.E+34
+Column 18: Air Irradiance is COLUMN DESCRIPTION   BAD FLAG : -1.E+34
+Column 19: Water Irradiance is COLUMN DESCRIPTION   BAD FLAG : -1.E+34
+
+
+VAL_QUAL FlAGS
+
+-1: pH displayed erratic readings on the upcast profile. Repaired prior to subsequent stations.
+-2: pH sensor was reading inconsistent and unreasonable values.
+-3: pH displayed erratic readings at the bottom depth in upcast profile.
+-4: pH displayed erratic readings on the upcast profile. All upcast data flagged.
